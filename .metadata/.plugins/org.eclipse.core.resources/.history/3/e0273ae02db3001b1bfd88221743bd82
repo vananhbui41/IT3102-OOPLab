@@ -1,0 +1,9 @@
+
+ class Truck extends RegisteredMotorVehicle{
+	static final int PICKUP = 0, BIGRIG = 1;
+	int truckType;
+	Truck(String t, String r, String o, int w, int l, int type){
+		super(t,r,o,w,l);
+		truckType = type;
+	}
+}

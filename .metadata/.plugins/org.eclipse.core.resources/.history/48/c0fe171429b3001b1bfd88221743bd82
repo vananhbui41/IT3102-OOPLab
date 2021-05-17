@@ -1,0 +1,8 @@
+
+public class RegisteredVehicle {
+
+	public RegisteredVehicle() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

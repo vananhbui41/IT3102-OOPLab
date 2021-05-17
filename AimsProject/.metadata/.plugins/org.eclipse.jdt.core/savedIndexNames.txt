@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\vanan\Máy tính\OOP\AimsProject\.metadata\.plugins\org.eclipse.jdt.core
+3263073673.index
+2331614753.index

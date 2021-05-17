@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;Order.itemsOrdered&apos; in &apos;Order&apos;&#x0D;&#x0A;- Original project: &apos;AimsProject&apos;&#x0D;&#x0A;- Original element: &apos;Order.itemsOrdered&apos;&#x0D;&#x0A;- Getter method name: &apos;getItemsOrdered&apos;&#x0D;&#x0A;- Setter method name: &apos;setItemsOrdered&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;itemsOrdered&apos;" flags="589830" getter="getItemsOrdered" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{Order.java[Order^itemsOrdered" insertion="4" setter="setItemsOrdered" stamp="1615741593886" version="1.0" visibility="1"/>
+</session>

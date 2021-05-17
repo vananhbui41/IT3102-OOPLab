@@ -1,0 +1,8 @@
+
+public class RegistrationException {
+
+	public RegistrationException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

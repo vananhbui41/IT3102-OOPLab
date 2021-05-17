@@ -1,0 +1,16 @@
+
+abstract class RegisteredMotorVehicle extends RegisteredVehicle{
+
+	int emptyWeight;
+	int lastOdometer;
+	RegisteredMotorVehicle(String t, String r,String o,int w, int l){
+		super(t,r,o);
+		emptyWeight =w;
+		lastOdometer = l;
+	}
+	void reRegister(String r,String o, int l)
+		throws RegistrationException{
+		if 
+	}
+
+}

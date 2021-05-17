@@ -1,0 +1,11 @@
+
+abstract class RegisteredVehicle {
+	String tag;
+	String registeredTo;
+	String owner;
+	abstract RegisteredVehicle(String t, String r, String o);
+	public RegisteredVehicle() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

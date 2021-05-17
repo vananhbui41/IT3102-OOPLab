@@ -1,0 +1,7 @@
+class RegistrationException (String message){
+
+	 RegistrationException(String s){super(s);} {
+		
+	}
+
+}
